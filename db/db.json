@@ -1,0 +1,19 @@
+{"post":[{
+  "firstName": "Alimazoya",
+  "lastName": "David",
+  "qualification":"BSC Economics and Statistics",
+  "stack":"Full-Stack",
+  "preferredLang":"Javascript",
+  "experience":"2+",
+  "id":1
+},
+{
+  "firstName": "Alimazoya",
+  "lastName": "David",
+  "qualification": "BSC Economics and Statistics",
+  "stack": "Full-Stack",
+  "preferredLang": "Javascript",
+  "experience": "2+",
+  "id": 2
+}]
+}

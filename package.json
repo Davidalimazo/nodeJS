@@ -1,0 +1,20 @@
+{
+  "name": "mongoimg",
+  "version": "1.0.0",
+  "description": "upload image to mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aydmedia",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "^5.0.0"
+  }
+}
